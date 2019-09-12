@@ -4,7 +4,7 @@ Just a model for NodeJS and MongoDB API.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -14,13 +14,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 mongo
+```
+
+```
 use artdb
 ```
 
 ### Installing
 
-* Clone the repository and get into it
-* Run the following to load the data into MongoDB server
+Clone the repository and get into it
+Run the following to load the data into MongoDB server
 
 ```
 npm run fill-db
