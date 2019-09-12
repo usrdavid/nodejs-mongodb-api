@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-mongodb-api",
+  "version": "1.0.0",
+  "description": "NodeJS-MongoDB API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "fill-db": "node ./src/db/populate --fill",
+    "clear-db": "node ./src/db/populate --clear"
+   },
+  "author": "David",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "mongodb": "3.3.2",
+    "yargs": "14.0.0"
+  }
+}

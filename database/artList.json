@@ -1,0 +1,119 @@
+[{
+	"_id": "5d79f517d908847b705f1c59",
+	"artList_id": 1.0,
+	"artList_name": "Painting",
+	"artType_name": "Visual",
+	"artType_description": "Is the practice of applying paint, pigment, color or other medium to a solid surface."
+},
+{
+	"_id": "5d79f517d908847b705f1c5a",
+	"artList_id": 2.0,
+	"artList_name": "Drawing",
+	"artType_name": "Visual",
+	"artType_description": "Is a representation of any form or object by hand through the medium of pencil, pen, charcoal, etc. Drawings are not necessarily a depiction of what we see around us. A drawing can also be abstract, illustrating certain emotions and ideas that are in the mind of the artist and which are open to interpretation."
+},
+{
+	"_id": "5d79f517d908847b705f1c5b",
+	"artList_id": 3.0,
+	"artList_name": "Sculpture",
+	"artType_name": "Visual",
+	"artType_description": "Is a three-dimensional art form that uses materials like clay, stone or wood for its execution."
+},
+{
+	"_id": "5d79f517d908847b705f1c5c",
+	"artList_id": 4.0,
+	"artList_name": "Photography",
+	"artType_name": "Visual",
+	"artType_description": "Is an image created by the exposure of light on a light-sensitive material at some stage during its making. Is the art of producing an image of an object on a photographic film. There is different types of photography, from fashion photography, wildlife photography, food photography to wedding photography and more."
+},
+{
+	"_id": "5d79f517d908847b705f1c5d",
+	"artList_id": 5.0,
+	"artList_name": "Architecture",
+	"artType_name": "Applied",
+	"artType_description": ""
+},
+{
+	"_id": "5d79f517d908847b705f1c5e",
+	"artList_id": 6.0,
+	"artList_name": "Fashion Design",
+	"artType_name": "Applied",
+	"artType_description": "Fashion design is the art of designing apparel that are aesthetically pleasing as well as functional. Fashion design involves working with different types of fabrics and patterns which are then designed into garments."
+},
+{
+	"_id": "5d79f517d908847b705f1c5f",
+	"artList_id": 7.0,
+	"artList_name": "Wood Crafts",
+	"artType_name": "Applied",
+	"artType_description": "Any object that is made with wood that is aesthetically pleasing to the eye as well as functional is called wood crafts. Furniture and decor items are examples of woodworking. Design can be curved on wood or different wood pieces can be joined together in wood craft."
+},
+{
+	"_id": "5d79f517d908847b705f1c60",
+	"artList_id": 8.0,
+	"artList_name": "Interior Design",
+	"artType_name": "Applied",
+	"artType_description": "The art of planning the design, layout and style of an architectural space, be it home or office is called interior design. Interior designing includes furnishings, furniture placement, layout of the interiors and many other factors."
+},
+{
+	"_id": "5d79f517d908847b705f1c61",
+	"artList_id": 9.0,
+	"artList_name": "Dance",
+	"artType_name": "Performing",
+	"artType_description": ""
+},
+{
+	"_id": "5d79f517d908847b705f1c62",
+	"artList_id": 10.0,
+	"artList_name": "Music",
+	"artType_name": "Performing",
+	"artType_description": ""
+},
+{
+	"_id": "5d79f517d908847b705f1c63",
+	"artList_id": 11.0,
+	"artList_name": "Opera",
+	"artType_name": "Performing",
+	"artType_description": ""
+},
+{
+	"_id": "5d79f517d908847b705f1c64",
+	"artList_id": 12.0,
+	"artList_name": "Film",
+	"artType_name": "Performing",
+	"artType_description": ""
+},
+{
+	"_id": "5d79f517d908847b705f1c65",
+	"artList_id": 13.0,
+	"artList_name": "Theater",
+	"artType_name": "Performing",
+	"artType_description": ""
+},
+{
+	"_id": "5d79f517d908847b705f1c66",
+	"artList_id": 14.0,
+	"artList_name": "Magic shows",
+	"artType_name": "Performing",
+	"artType_description": ""
+},
+{
+	"_id": "5d79f517d908847b705f1c67",
+	"artList_id": 15.0,
+	"artList_name": "Stand Up comedies",
+	"artType_name": "Performing",
+	"artType_description": ""
+},
+{
+	"_id": "5d79f517d908847b705f1c68",
+	"artList_id": 16.0,
+	"artList_name": "Calligraphy",
+	"artType_name": "Visual",
+	"artType_description": "Is the art of writing letters in a manner that it looks visually appealing. For calligraphy, a special calligraphy pen with a flat nib or brushes dipped in paint is often used."
+},
+{
+	"_id": "5d79f518d908847b705f1c69",
+	"artList_id": 17.0,
+	"artList_name": "Jewelry Design",
+	"artType_name": "Applied",
+	"artType_description": "Jewelry design is also a different form of art and it involves the design of intricate pieces of jewelry from metals, wood or plastic. Metals that are primarily used for designing jewelry are gold, silver, platinum, copper, etc. Jewelry design also incorporates precious and semi precious stones for its execution."
+}]
