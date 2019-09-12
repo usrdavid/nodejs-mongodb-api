@@ -8,9 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* You need to install NodeJS and NPM
-* You need to install and run MongoDB
-* Start a MongoDB client and create a database called "artdb"
+You need to install NodeJS and NPM
+You need to install and run MongoDB
+Start a MongoDB client and create a database called "artdb"
 
 ```
 mongo
@@ -35,7 +35,7 @@ You can use the following to drop the collection
 npm run clear-db
 ```
 
-* Start the server
+Start the server
 
 ```
 npm run start
